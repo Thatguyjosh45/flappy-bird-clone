@@ -6,10 +6,10 @@ pygame.init()
       
 # Constants
 WIDTH, HEIGHT = 400, 600
-GRAVITY = 0.5
+GRAVITY = 0.3
 JUMP_STRENGTH = -10
 PIPE_WIDTH = 70
-PIPE_GAP = 150
+PIPE_GAP = 140
 PIPE_SPEED = 3
 FPS = 60
 
